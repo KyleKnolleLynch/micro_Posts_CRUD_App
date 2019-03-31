@@ -6,18 +6,15 @@
 
 ## Es6 and Classes
 
-## Compiled with Babel and Webpack
-
 ## Bootswatch and Font Awesome
+
+## Compiled with Babel and Webpack
 
 ## Built using Babel Webpack Starter pack from Traversy Media.  Huge credit and thank you to Mr. Brad Traversy. 
 
 ## More Info,
-
 ## Babel Webpack Starter
-
 ### Author
-
 Brad Traversy
 [Traversy Media](http://www.traversymedia.com)
 
